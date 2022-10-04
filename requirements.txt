@@ -1,5 +1,5 @@
 Flask==1.1.2
-pickle==2.0.0
+cloudpickle==2.0.0
 joblib==1.1.0
 gunicorn==20.1.0
 itsdangerous==2.0.1
